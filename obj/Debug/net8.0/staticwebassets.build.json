@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "iTeJSO3MxJLIjKfeNedtJBNL4XB66sgVEvwNf9R8h/I=",
+  "Source": "DotnetSkyApiPostgres",
+  "BasePath": "_content/DotnetSkyApiPostgres",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

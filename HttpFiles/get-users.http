@@ -1,0 +1,1 @@
+GET http://localhost:7294/api/users/list HTTP/1.1

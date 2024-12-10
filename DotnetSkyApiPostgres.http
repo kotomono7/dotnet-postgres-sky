@@ -1,0 +1,6 @@
+@DotnetSkyApiPostgres_HostAddress = http://localhost:5265
+
+GET {{DotnetSkyApiPostgres_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
